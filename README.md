@@ -1,1 +1,1 @@
-# TFM_Statistical_model_for_Road_Traffic_Accidents-
+# TFM Statistical tool for the identification and characterization of patterns of events in a dynamic system
